@@ -1,7 +1,7 @@
 #pragma once
 
 // Alt gr
-#define ALTGR RALT
+#define Key_frb_ALTGR RALT
 
 
 // First line
@@ -51,7 +51,7 @@
 
 
 // fourth line
-#define Key_frb_E_umlaut	Key_Backslash
+#define Key_frb_E_umlaut	Key_NonUsBackslashAndPipe
 #define Key_frb_A_Grave		Key_Z
 #define Key_frb_Y			Key_X
 #define Key_frb_X			Key_C
@@ -62,3 +62,13 @@
 #define Key_frb_G			Key_Comma
 #define Key_frb_H			Key_Period
 #define Key_frb_F			Key_Slash
+
+
+// Shortcut keys
+#define Key_frb_Cut			LCTRL(Key_frb_X)
+#define Key_frb_Copy		LCTRL(Key_frb_C)
+#define Key_frb_Paste		LCTRL(Key_frb_V)
+#define Key_frb_Undo		LCTRL(Key_frb_Z)
+#define Key_frb_Redo		LCTRL(Key_frb_Y)
+#define Key_frb_SelectAll	LCTRL(Key_frb_A)
+#define Key_frb_Fullscreen	Key_F11
