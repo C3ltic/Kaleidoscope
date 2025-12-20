@@ -73,7 +73,7 @@ KEYMAPS(
     ,Key_fre_Cut            ,Key_fre_Copy             ,Key_fre_Paste        ,Key_Insert               ,Key_Delete         ,XXX
 
                             ,Key_fre_Slash            ,Key_7                ,Key_8                    ,Key_9              ,Key_fre_Star
-                            ,Key_fre_Minus            ,Key_4                ,Key_5                    ,Key_6              ,Key_Keypad0
+                            ,Key_fre_Minus            ,Key_4                ,Key_5                    ,Key_6              ,Key_0
     ,Key_fre_Add            ,Key_fre_Comma            ,Key_1                ,Key_2                    ,Key_3              ,Key_fre_Period
     ,Key_fre_Undo           ,Key_fre_Redo             ,XXX                  ,TG(SYS)                  ,Key_fre_Equals     ,Key_Enter
   ),
